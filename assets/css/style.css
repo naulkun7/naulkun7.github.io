@@ -109,7 +109,7 @@
 
 /* section1 */
 .section1 {
-  background-image: url(/nguyenhoangluan-prj1/assets/img/background1.jpg);  
+  background-image: url(/assets/img/background1.jpg); 
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 50% 50%;
