@@ -1,11 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap');
-
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap");
 
 :root {
-  --color-background: #EFEFEF;
+  --color-background: #efefef;
   --color-text: #777777;
-  --color-1:#232323;
-  --color-2: #F7D9C4;
+  --color-1: #232323;
+  --color-2: #f7d9c4;
 }
 
 .container {
@@ -19,7 +18,7 @@
   box-sizing: border-box;
 }
 
-body{
+body {
   font-family: "DM Sans", sans-serif;
   color: var(--color-text);
 }
