@@ -691,7 +691,7 @@
   }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 450px) {
   * {
     text-align: center;
   }
@@ -828,6 +828,7 @@
   }
   /* section 6 */
   .section6 {
+    margin-top: 15px;
     padding: 25px;
   }
 
